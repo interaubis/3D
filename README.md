@@ -5,7 +5,7 @@ Modelos de máscaras 3D para corte a laser.
 
 Estes modelos podem ser replicados para fins educativos e recreativos mas não para venda, se quiser comprar/vender fale comigo
 
-These models are freeware for educational and recreative purposes. For selling it talk with me first
+These models are freeware for educational and recreative purposes. For selling it contact me first
 
 3 modelos
 Gato / Cat
