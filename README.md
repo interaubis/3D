@@ -3,6 +3,19 @@
 
 Modelos de máscaras 3D para corte a laser.
 
+Estes modelos podem ser replicados para fins educativos e reacreativo mas não para venda, se quiser comprar/vender fale comigo
+
+These models are freeware for educational and recreative purposes but for selling it talk with me first
+
+3 modelos
+Gato / Cat
+Cachorro  / Dog
+Rinoceronte / Rhino
+
+Os PDFs do Rino estão formatados para impressão em tamanho A4, os outros pra corte a laser, 50 x 70 cm
+
+Rhino is formatted for A4 printing, dog and cat formated for laser cutting, 50 x 70 cm
+
 Existem pequenas diferenças entre o modelo STL/Blend e o SVG.
 
 There are some minor differences between STL/Blender model and the SVG file.
