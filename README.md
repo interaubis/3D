@@ -12,9 +12,9 @@ Gato / Cat
 Cachorro  / Dog
 Rinoceronte / Rhino
 
-Os PDFs do Rino estão formatados para impressão em tamanho A4, os outros pra corte a laser, 50 x 70 cm
+Os PDFs do Rino e do Gato estão formatados para impressão em tamanho A4 e pra corte a laser, o Cachorro por enquanto apenas pra corte a laser, 50 x 70 cm
 
-Rhino is formatted for A4 printing, dog and cat formated for laser cutting, 50 x 70 cm
+Rhino and Cat are formatted both for A4 printing or laser cut, dog only formated for laser cutting, for now, 50 x 70 cm
 
 Existem pequenas diferenças entre o modelo STL/Blend e o SVG.
 
