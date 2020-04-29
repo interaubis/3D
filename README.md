@@ -7,14 +7,15 @@ Estes modelos podem ser replicados para fins educativos e recreativos mas não p
 
 These models are freeware for educational and recreative purposes. For selling it contact me first
 
-3 modelos
+4 modelos
 Gato / Cat
 Cachorro  / Dog
 Rinoceronte / Rhino
+Médico da Peste / Doctor Plague
 
-Os PDFs do Rino e do Gato estão formatados para impressão em tamanho A4 e pra corte a laser, o Cachorro por enquanto apenas pra corte a laser, 50 x 70 cm
+Os PDFs do Rino, do Gato e do Médico estão formatados para impressão em tamanho A4 e pra corte a laser, o Cachorro por enquanto apenas pra corte a laser, 50 x 70 cm
 
-Rhino and Cat are formatted both for A4 printing or laser cut, dog only formated for laser cutting, for now, 50 x 70 cm
+Rhino, Cat and Doctor are formatted both for A4 printing or laser cut, dog only formated for laser cutting, for now, 50 x 70 cm
 
 Existem pequenas diferenças entre o modelo STL/Blend e o SVG.
 
@@ -23,6 +24,10 @@ There are some minor differences between STL/Blender model and the SVG file.
 Nos modelos SVG acrescentei as abas para facilitar a colagem e simplifiquei alguns polígonos duplos gerados pelo Blender.
 
 The SVG have the flaps for properly gluing and the polygons are simplified due to some doubles creaated by Blender.
+
+No Médico da Peste não há abas, monte pelo lado de dentro, com fitas durex ou crepe.
+
+The Doctor Plague mask doesn't have flaps, you got to use tape, preferably in the inside.
 
 O tamanho das máscaras no SVG está em torno de 10cm entre o centro dos olhos. Este tamanho pode ser costumizado conforme a necessidade.
 
