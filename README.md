@@ -8,9 +8,13 @@ Estes modelos podem ser replicados para fins educativos e recreativos mas não p
 These models are freeware for educational and recreative purposes. For selling it contact me first
 
 4 modelos
+
 Gato / Cat
+
 Cachorro  / Dog
+
 Rinoceronte / Rhino
+
 Médico da Peste / Doctor Plague
 
 Os PDFs do Rino, do Gato e do Médico estão formatados para impressão em tamanho A4 e pra corte a laser, o Cachorro por enquanto apenas pra corte a laser, 50 x 70 cm
