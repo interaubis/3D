@@ -7,19 +7,21 @@ Estes modelos podem ser replicados para fins educativos e recreativos mas não p
 
 These models are freeware for educational and recreative purposes. For selling it contact me first
 
-4 modelos
+5 modelos
 
-Gato / Cat
+Gato / Cat  (modelo fácil / easy model)
 
-Cachorro  / Dog
+Coelho / Rabbit  (é a mais fácil / is the easiest one)
 
-Rinoceronte / Rhino
+Cachorro  / Dog (dificuldade média / medium difficulty)
 
-Médico da Peste / Doctor Plague
+Rinoceronte / Rhino (difícil e complicada / most hard and complicated one)
 
-Os PDFs do Rino, do Gato e do Médico estão formatados para impressão em tamanho A4 e pra corte a laser, o Cachorro por enquanto apenas pra corte a laser, 50 x 70 cm
+Médico da Peste / Doctor Plague (fácil / easy)
 
-Rhino, Cat and Doctor are formatted both for A4 printing or laser cut, dog only formated for laser cutting, for now, 50 x 70 cm
+Os PDFs do Rino, do Gato, do Coelho e do Médico estão formatados para impressão em tamanho A4 e pra corte a laser, o Cachorro por enquanto apenas pra corte a laser, 50 x 70 cm
+
+Rhino, Cat, the Rabbit and Doctor are formatted both for A4 printing or laser cut, dog only formated for laser cutting, for now, 50 x 70 cm
 
 Existem pequenas diferenças entre o modelo STL/Blend e o SVG.
 
