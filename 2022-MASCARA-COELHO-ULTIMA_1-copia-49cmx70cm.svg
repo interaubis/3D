@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="70.09333cm"
+   height="49.09333cm"
+   viewBox="0 0 2649.1966 1855.4959"
+   version="1.1"
+   id="svg64"
+   sodipodi:docname="2022-MASCARA-COELHO-ULTIMA_1-copia-49cmx70cm.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/COELHO LOW POLY/2022-MASCARA-COELHO-danielseda-com.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs68" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     id="namedview66"
+     showgrid="false"
+     inkscape:zoom="0.76490832"
+     inkscape:cx="590.26682"
+     inkscape:cy="564.77357"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4943"
+     inkscape:document-units="cm"
+     units="mm"
+     showguides="false"
+     inkscape:pagecheckerboard="0" />
+  <desc
+     id="desc2">'MASCARA-COELHO.blend', Cube.001, (Blender 2.78 (sub 0))</desc>
+  <g
+     id="g4943"
+     transform="translate(-1051.733,-106.66668)">
+    <g
+       id="g4197"
+       transform="matrix(1.0666667,0,0,1.0666666,1095.0876,147.97582)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ROSTO_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g4173"
+         inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ROSTO_1-copia-49cmx70cm.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path4367"
+           d="M 512,551.893 C 452.36767,539.81633 392.73533,527.73967 333.103,515.663 392.73533,594.33933 452.36767,673.01567 512,751.692 c 0,-66.59967 0,-133.19933 0,-199.799 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4365"
+           d="m 512,551.893 c 41.46,-28.987 82.92,-57.974 124.38,-86.961 -41.46,-18.37367 -82.92,-36.74733 -124.38,-55.121 0,47.36067 0,94.72133 0,142.082 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4363"
+           d="m 512,551.893 c 0,-47.36067 0,-94.72133 0,-142.082 -41.46,18.37367 -82.92,36.74733 -124.38,55.121 41.46,28.987 82.92,57.974 124.38,86.961 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4361"
+           d="M 220.448,388.137 C 147.01,443.05133 73.572,497.96567 0.134,552.88 c 53.724667,6.72933 107.44933,13.45867 161.174,20.188 18.29025,-41.64343 39.27864,-82.62281 55.8984,-124.67736 1.08053,-20.08455 2.16107,-40.16909 3.2416,-60.25364 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4359"
+           d="M 512,551.893 C 466.90214,521.87626 424.30553,487.49494 377.57934,460.31955 325.20223,436.2587 272.82511,412.19785 220.448,388.137 c -1.13,21.004 -2.26,42.008 -3.39,63.012 39.68684,21.40916 78.57535,44.98115 118.75239,65.0623 C 394.54026,528.1052 453.27013,539.9991 512,551.893 Z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4357"
+           d="m 512,551.893 c 60.33657,-12.79646 121.46418,-23.44987 181.31134,-37.57222 37.87722,-21.05726 75.75444,-42.11452 113.63166,-63.17178 -1.13,-21.00367 -2.26,-42.00733 -3.39,-63.011 -57.74688,27.60198 -117.44763,51.79453 -173.96472,81.54247 C 590.39219,497.08465 551.19609,524.48882 512,551.893 Z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4355"
+           d="M 1023.866,552.88 C 950.42833,497.966 876.99067,443.052 803.553,388.138 c 3.14968,29.8229 -2.35554,61.77584 14.87724,88.13276 14.75392,32.26575 29.50784,64.53149 44.26176,96.79724 53.72467,-6.72933 107.44933,-13.45867 161.174,-20.188 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4353"
+           d="m 512,551.893 c 0,66.59967 0,133.19933 0,199.799 C 571.63233,673.01567 631.26467,594.33933 690.897,515.663 631.26467,527.73967 571.63233,539.81633 512,551.893 Z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4351"
+           d="m 638.369,881.002 c 46.40367,-79.98733 92.80733,-159.97467 139.211,-239.962 -36.53433,8.819 -73.06867,17.638 -109.603,26.457 -9.86933,71.16833 -19.73867,142.33667 -29.608,213.505 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4349"
+           d="M 690.897,515.663 C 631.26467,594.33933 571.63233,673.01567 512,751.692 c 51.99233,-28.065 103.98467,-56.13 155.977,-84.195 7.64,-50.61133 15.28,-101.22267 22.92,-151.834 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4347"
+           d="m 512,751.692 c 42.123,43.10333 84.246,86.20667 126.369,129.31 9.86933,-71.16833 19.73867,-142.33667 29.608,-213.505 -51.99233,28.065 -103.98467,56.13 -155.977,84.195 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4345"
+           d="M 385.631,881.002 C 427.754,837.89867 469.877,794.79533 512,751.692 460.008,723.627 408.016,695.562 356.024,667.497 c 9.869,71.16833 19.738,142.33667 29.607,213.505 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4343"
+           d="M 512,751.692 C 452.36767,673.01567 392.73533,594.33933 333.103,515.663 c 7.64033,50.61133 15.28067,101.22267 22.921,151.834 51.992,28.065 103.984,56.13 155.976,84.195 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4341"
+           d="M 356.024,667.497 C 319.48933,658.678 282.95467,649.859 246.42,641.04 292.82367,721.02733 339.22733,801.01467 385.631,881.002 375.762,809.83367 365.893,738.66533 356.024,667.497 Z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4339"
+           d="M 817.539,794.395 C 804.21933,743.27667 790.89967,692.15833 777.58,641.04 c -46.40367,79.98733 -92.80733,159.97467 -139.211,239.962 17.999,20.95467 35.998,41.90933 53.997,62.864 41.72433,-49.82367 83.44867,-99.64733 125.173,-149.471 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4337"
+           d="m 331.635,943.866 c 17.99867,-20.95467 35.99733,-41.90933 53.996,-62.864 C 339.22733,801.01467 292.82367,721.02733 246.42,641.04 c -13.31967,51.11833 -26.63933,102.23667 -39.959,153.355 41.72467,49.82367 83.44933,99.64733 125.174,149.471 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4335"
+           d="m 512,751.692 c 17.53167,59.94267 35.06333,119.88533 52.595,179.828 24.59133,-16.83933 49.18267,-33.67867 73.774,-50.518 C 596.246,837.89867 554.123,794.79533 512,751.692 Z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4333"
+           d="m 512,751.692 c -42.123,43.10333 -84.246,86.20667 -126.369,129.31 24.59167,16.83933 49.18333,33.67867 73.775,50.518 C 476.93733,871.57733 494.46867,811.63467 512,751.692 Z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4331"
+           d="m 636.38,464.932 c 55.72433,-25.598 111.44867,-51.196 167.173,-76.794 -97.18433,7.22433 -194.36867,14.44867 -291.553,21.673 41.46,18.37367 82.92,36.74733 124.38,55.121 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4321"
+           d="m 220.448,388.137 c 55.724,25.59833 111.448,51.19667 167.172,76.795 41.46,-18.37367 82.92,-36.74733 124.38,-55.121 -97.184,-7.22467 -194.368,-14.44933 -291.552,-21.674 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4315"
+           d="m 1023.866,552.88 c -53.72467,6.72933 -107.44933,13.45867 -161.174,20.188 -28.37067,22.65733 -56.74133,45.31467 -85.112,67.972 13.31967,51.11833 26.63933,102.23667 39.959,153.355 68.77567,-80.505 137.55133,-161.01 206.327,-241.515 z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="polygon60"
+           d="M 0.134,552.88 C 68.909667,633.385 137.68533,713.89 206.461,794.395 219.78067,743.27667 233.10033,692.15833 246.42,641.04 216.93254,618.74973 189.02853,592.7064 158.56706,572.72468 105.75604,566.10979 52.945021,559.49489 0.134,552.88 Z"
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.54;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 743.48271,957.52816 -51.07627,-12.24173 -49.64123,9.43349 -4.5332,-72.96329 m 0,0 -5.08903,61.41661 L 592.7296,956.64436 564.595,931.52 m 0,0 -52.69216,5.8799 m 0,0 L 459.406,931.52 m 0,0 -32.90568,29.77181 m 0,0 L 386.8138,933.551 m 0,0 -1.28254,-51.98837 m 0,0 -10.86229,57.13106 -43.80601,5.96209 -53.74263,11.98858 -88.52455,-123.16459 17.22564,-38.78894 -51.86568,17.62003 L -16.608122,602.59491 -0.39439085,553.23557 -3.8488935,498.62604 175.12465,363.91476 l 44.56229,23.58214 20.8689,-35.12882 238.6314,5.77334 32.44684,50.63565 24.63967,-53.22324 231.5805,0.66315 36.05948,31.32742 56.31397,-17.85629 169.3513,113.54235 -3.2345,69.26383 16.7056,63.523 -186.77161,184.9377 -37.52308,-6.09608 16.95881,20.90272 -92.23151,141.76653"
+         id="path4161"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ROSTO_1-copia-49cmx70cm.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4223"
+       d="m 1473.7028,858.18526 -27.5357,-28.39614 -59.3737,-12.04685 -27.5357,13.76783 -1.7209,-23.23321 -64.5367,-49.90837 -24.0937,1.72099 25.8147,-10.32587 37.001,-93.79332 -5.1629,-24.95417 12.9073,27.53564 86.0489,46.46641 23.2332,-6.02342 -15.4888,16.34929 15.4888,106.70065 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.57599998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ROSTO_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4225"
+       d="m 1809.2936,858.18526 14.6283,-18.93076 81.7465,-20.65174 17.2097,12.04685 -0.8605,-18.07027 64.5367,-55.07131 26.6752,1.72098 -25.8147,-8.60488 -38.722,-86.9094 6.0234,-32.69858 -10.3258,26.67515 -84.328,45.60592 -26.6751,-3.44195 18.9307,15.4888 -21.5122,107.56114 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.57599998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ROSTO_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="matrix(1.0666667,0,0,1.0666666,1095.0876,169.30915)"
+       id="g4238"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g4875">
+        <g
+           id="g4163"
+           transform="translate(0,7.9999942)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4329"
+             d="M 302.974,-34.703659 C 265.92733,70.105671 229.18067,175.05967 192.134,279.869 c 36.354,-21.62467 72.708,-43.24933 109.062,-64.874"
+             style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4325"
+             d="M 301.196,214.995 C 354.238,189.78867 407.28,164.58233 460.322,139.376 407.97267,81.39767 355.32333,23.274674 302.974,-34.703659"
+             style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4317"
+             d="M 192.134,279.869 H 464.997 C 410.39667,258.24433 355.79633,236.61967 301.196,214.995"
+             style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.93749997;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.93749997,0.93749997;stroke-dashoffset:0.28124999"
+             d="m 302.974,-34.703659 -0.59274,249.305929 v 0"
+             id="path4787" />
+        </g>
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 302.38126,222.60227 57.67966,0 100.50245,38.4531 4.53056,27.01517 -14.14384,31.53843 -235.08832,-5.24361 -24.3111,-26.13941 -21.13349,-21.92697 103.12425,-298.885524 29.39564,5.322223 26.53615,-7.944026 143.32523,146.820957 -11.75789,35.59362 -1.35113,22.95998 -97.88064,45.44458 z"
+           id="path4227"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccc" />
+      </g>
+    </g>
+    <g
+       transform="matrix(-1.0666667,0,0,1.0666666,2174.7331,168.7885)"
+       id="g4238-6"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_2-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g4875-4">
+        <g
+           id="g4163-3"
+           transform="translate(0,7.9999942)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4329-0"
+             d="M 302.974,-34.703659 C 265.92733,70.105671 229.18067,175.05967 192.134,279.869 c 36.354,-21.62467 72.708,-43.24933 109.062,-64.874"
+             style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4325-3"
+             d="M 301.196,214.995 C 354.238,189.78867 407.28,164.58233 460.322,139.376 407.97267,81.39767 355.32333,23.274674 302.974,-34.703659"
+             style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="ccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4317-0"
+             d="M 192.134,279.869 H 464.997 C 410.39667,258.24433 355.79633,236.61967 301.196,214.995"
+             style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.708661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.9375, 0.9375;stroke-dashoffset:0.28125;stroke-opacity:1"
+             d="m 302.974,-34.703659 -0.59274,249.305929 v 0"
+             id="path4787-9" />
+        </g>
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.54;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 302.38126,222.60227 h 57.67966 l 100.50245,38.4531 4.53056,27.01517 -14.14384,31.53843 -235.08832,-5.24361 -24.3111,-26.13941 -21.13349,-21.92697 103.12425,-298.885524 29.39564,5.322223 26.53615,-7.944026 143.32523,146.820957 -11.75789,35.59362 -1.35113,22.95998 -97.88064,45.44458 z"
+           id="path4227-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.8806px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.797015"
+       x="1494.1161"
+       y="490.23984"
+       id="text5756"
+       transform="scale(0.9726948,1.0280717)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754"
+         x="1494.1161"
+         y="490.23984"
+         style="stroke-width:0.797015">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.8806px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.797015"
+       x="1526.1007"
+       y="1187.4363"
+       id="text5756-2"
+       transform="scale(0.9726948,1.0280717)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/COELHO LOW POLY/2022-MASCARA-COELHO-danielseda-com.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-4"
+         x="1526.1007"
+         y="1187.4363"
+         style="stroke-width:0.797015">www.danielseda.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.8806px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.797015"
+       x="1523.6886"
+       y="546.79694"
+       id="text5756-3"
+       transform="scale(0.9726948,1.0280717)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ROSTO_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-8"
+         x="1523.6886"
+         y="546.79694"
+         style="stroke-width:0.797015">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.8806px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.797015"
+       x="1827.9965"
+       y="490.38077"
+       id="text5756-6"
+       transform="scale(0.9726948,1.0280717)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_2-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-0"
+         x="1827.9965"
+         y="490.38077"
+         style="stroke-width:0.797015">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.8806px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.797015"
+       x="1822.3776"
+       y="545.41327"
+       id="text5756-6-4"
+       transform="scale(0.9726948,1.0280717)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ROSTO_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-0-8"
+         x="1822.3776"
+         y="545.41327"
+         style="stroke-width:0.797015">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.2989px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.557472"
+       x="1532.9431"
+       y="438.9017"
+       id="text5756-6-8"
+       transform="scale(0.98903261,1.011089)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-0-89"
+         x="1532.9431"
+         y="438.9017"
+         style="stroke-width:0.557472">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.2943px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.557356"
+       x="1540.4718"
+       y="367.95035"
+       id="text5756-6-8-7"
+       transform="scale(0.98923834,1.0108787)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-0-89-7"
+         x="1540.4718"
+         y="367.95035"
+         style="stroke-width:0.557356">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.7396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.293488"
+       x="20.246809"
+       y="1312.3375"
+       id="text5756-6-8-7-0"
+       transform="matrix(0.31950245,-0.93622152,0.95670207,0.32649181,0,0)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-0-89-7-5"
+         x="20.246809"
+         y="1312.3375"
+         style="stroke-width:0.293488">cole C  com C formando uma dobra de vale</tspan><tspan
+         sodipodi:role="line"
+         x="20.246809"
+         y="1327.0121"
+         style="stroke-width:0.293488"
+         id="tspan18195">a linha preta tracejada também é dobra de vale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.7396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.293488"
+       x="821.75867"
+       y="-1724.7223"
+       id="text5756-6-8-7-0-9"
+       transform="matrix(0.34710529,0.92634252,-0.94660696,0.35469848,0,0)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_2-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-0-89-7-5-4"
+         x="821.75867"
+         y="-1724.7223"
+         style="stroke-width:0.293488">cole D com D formando uma dobra de vale</tspan><tspan
+         sodipodi:role="line"
+         x="821.75867"
+         y="-1710.0477"
+         style="stroke-width:0.293488"
+         id="tspan18195-6">a linha preta tracejada também é dobra de vale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.2989px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.557472"
+       x="1768.3594"
+       y="436.32654"
+       id="text5756-6-8-6"
+       transform="scale(0.98903261,1.011089)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_2-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-0-89-4"
+         x="1768.3594"
+         y="436.32654"
+         style="stroke-width:0.557472">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.2989px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.557472"
+       x="1743.3059"
+       y="365.04712"
+       id="text5756-6-8-6-3"
+       transform="scale(0.98903261,1.011089)"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ORELHA_2-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5754-0-89-4-0"
+         x="1743.3059"
+         y="365.04712"
+         style="stroke-width:0.557472">D</tspan></text>
+    <path
+       style="fill:none;stroke:#0000fd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1641.221,949.78061 -0.1037,198.08849 v 0"
+       id="path4011"
+       inkscape:export-filename="/home/daniels/Imagens/OBRAS Seda/Mascaras Low-Poly/2022-MASCARA-COELHO-ROSTO_1-copia-49cmx70cm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
