@@ -1,7 +1,7 @@
 # 3D
 3D models for laser cutting.
 
-Modelos de máscaras 3D para corte a laser.
+Modelos de máscaras 3D para corte a laser e impresão A4.
 
 Estes modelos podem ser replicados para fins educativos e recreativos mas não para venda, se quiser comprar/vender fale comigo
 
