@@ -1,5 +1,5 @@
 # 3D
-3D models for laser cutting.
+3D models for laser cutting and 2D printing + paper crafting.
 
 Modelos de máscaras 3D para corte a laser e impresão A4.
 
@@ -7,7 +7,14 @@ Estes modelos podem ser replicados para fins educativos e recreativos mas não p
 
 These models are freeware for educational and recreative purposes. For selling it contact me first
 
-5 modelos
+PARA IMPRIMIR EM A4 PROCURE OS PDF
+OS ARQUIVOS TÊM INSTRUÇÃO DE MONTAGEM
+
+7 modelos
+
+Capivara / Capybara (fácil / easy)
+
+Bicho-preguiça / Sloth (easy / fácil)
 
 Gato / Cat  (modelo fácil / easy model)
 
